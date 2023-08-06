@@ -62,5 +62,4 @@ obterUsuario(function resolverUsuario(error, usuario) {
     });
   });
 });
-//const telefone = obterTelefone(usuario.id)
-//console.log('telefone', telefone)
+
